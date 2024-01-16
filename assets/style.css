@@ -82,10 +82,35 @@ section {
   line-height: 150%
 }
 
+.title:hover {
+  color: var(--primary);
+  cursor: pointer;
+}
+
 .description {
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
   line-height: 150%;
   color: var(--grey);
+}
+
+footer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+}
+
+.image--footer {
+  width: 32px;
+  height: 32PX;
+}
+
+.autor {
+  padding-left: 12px;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 150%
 }

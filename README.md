@@ -4,11 +4,11 @@ This project is my solution to the Blog Preview Card challenge on Frontend Mento
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Acknowledgements](#acknowledgements)
+-   [Introduction](#introduction)
+-   [Installation](#installation)
+-   [Usage](#usage)
+-   [Contributing](#contributing)
+-   [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -18,13 +18,15 @@ The challenge was to build a responsive blog preview card that displays key info
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/blog-preview-card.git
-   
+    ```bash
+    git clone https://github.com/navidTabrizi90/blog-preview-card.git
+
+    ```
+
 2. Open the project directory:
-    
-   ```bash 
-    cd blog-preview-card
+    ```bash
+     cd blog-preview-card
+    ```
 3. Open the HTML file (index.html) in your preferred web browser.
 
 ## Usage
@@ -41,8 +43,7 @@ If you'd like to contribute to this project, follow these steps:
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
-
 ## Acknowledgements
 
-- Challenge by [Frontend Mentor](https://www.frontendmentor.io?ref=challenge)
-- Coded by [Navid Tabrizi] ([navidTabrizi90](https://github.com/navidTabrizi90))
+-   Challenge by [Frontend Mentor](https://www.frontendmentor.io?ref=challenge)
+-   Coded by [Navid Tabrizi] ([navidTabrizi90](https://github.com/navidTabrizi90))

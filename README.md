@@ -5,6 +5,7 @@ This project is my solution to the Blog Preview Card challenge on Frontend Mento
 ## Table of Contents
 
 -   [Introduction](#introduction)
+-   [Screenshot](#screenshot)
 -   [Installation](#installation)
 -   [Usage](#usage)
 -   [Contributing](#contributing)
@@ -13,6 +14,12 @@ This project is my solution to the Blog Preview Card challenge on Frontend Mento
 ## Introduction
 
 The challenge was to build a responsive blog preview card that displays key information about a blog post. This includes the post's title, publication date, description, and author. The project uses custom fonts and styles to enhance the visual appeal of the card.
+
+### Screenshot
+
+![desktop mode ](./assets/images/screenshots/desktop-mode.png)
+![desktop mode with hover](./assets/images/screenshots/desktop-mode-with-hover.png)
+![mobile mode](./assets/images/screenshots/mobile-mode.png)
 
 ## Installation
 

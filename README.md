@@ -17,9 +17,9 @@ The challenge was to build a responsive blog preview card that displays key info
 
 ### Screenshot
 
-![desktop mode ](./assets/images/screenshots/desktop-mode.png)
-![desktop mode with hover](./assets/images/screenshots/desktop-mode-with-hover.png)
-![mobile mode](./assets/images/screenshots/mobile-mode.png)
+![desktop mode ](./assets/screenshots/desktop-mode.png)
+![desktop mode with hover](./assets/screenshots/desktop-mode-with-hover.png)
+![mobile mode](./assets/screenshots/mobile-mode.png)
 
 ## Installation
 
